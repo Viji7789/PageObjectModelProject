@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DSAlgoSuite">
+  <test thread-count="5" name="DSAlgoTest">
+    <classes>
+      
+  <!--     <class name="com.dsalgo.testCases.RegisterDataDriven"/>-->
+        <class name="com.dsalgo.testCases.RegisterTestCase"/>
+      <!--  <class name="com.dsalgo.testCases.SignInTestCase"/>
+        <class name="com.dsalgo.testCases.DataStructuresTestCase"/>
+       <class name="com.dsalgo.testCases.LinkedListTestCase"/>-->
+    </classes>
+  </test> <!-- DSAlgoTest -->
+</suite> <!-- DSAlgoSuite -->

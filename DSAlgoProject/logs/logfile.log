@@ -1,0 +1,523 @@
+2022-08-02 15:41:40 INFO  BaseClass:35 - Base Class2022-08-02 15:41:42 INFO  BaseClass:26 - Get Started page2022-08-02 15:41:42 INFO  BaseClass:30 - Register page2022-08-02 15:42:53 INFO  BaseClass:35 - Base Class2022-08-02 15:42:54 INFO  BaseClass:26 - Get Started page2022-08-02 15:42:54 INFO  BaseClass:30 - Register page2022-08-02 15:43:44 INFO  BaseClass:35 - Base Class2022-08-02 15:43:46 INFO  BaseClass:26 - Get Started page2022-08-02 15:43:46 INFO  BaseClass:30 - Register page2022-08-02 15:43:47 INFO  BaseClass:47 - Registration successful2022-08-02 15:43:47 INFO  BaseClass:51 - Logged out successful2022-08-02 15:43:47 INFO  BaseClass:55 - Perform sign in2022-08-02 16:21:47 INFO  BaseClass:35 - Base Class2022-08-02 16:27:10 INFO  BaseClass:35 - Base Class2022-08-02 16:27:11 INFO  BaseClass:26 - Get Started page2022-08-02 16:27:12 INFO  BaseClass:30 - Register page2022-08-02 16:27:38 INFO  BaseClass:35 - Base Class2022-08-02 16:27:39 INFO  BaseClass:26 - Get Started page2022-08-02 16:27:39 INFO  BaseClass:30 - Register page2022-08-02 16:27:40 INFO  BaseClass:47 - Registration successful2022-08-02 16:27:40 INFO  BaseClass:51 - Logged out successful2022-08-02 16:27:40 INFO  BaseClass:55 - Perform sign in2022-08-02 17:09:28 INFO  BaseClass:35 - Base Class2022-08-02 17:09:30 INFO  BaseClass:26 - Get Started page2022-08-02 17:09:30 INFO  BaseClass:30 - Register page2022-08-02 17:09:58 INFO  BaseClass:35 - Base Class2022-08-02 17:09:59 INFO  BaseClass:26 - Get Started page2022-08-02 17:10:00 INFO  BaseClass:30 - Register page2022-08-02 17:10:01 INFO  BaseClass:47 - Registration successful2022-08-02 17:10:01 INFO  BaseClass:51 - Logged out successful2022-08-02 17:10:01 INFO  BaseClass:55 - Perform sign in2022-08-02 17:14:38 INFO  BaseClass:35 - Base Class2022-08-02 17:29:27 INFO  BaseClass:35 - Base Class
+2022-08-02 17:29:28 INFO  BaseClass:26 - Get Started page
+2022-08-02 17:29:29 INFO  BaseClass:30 - Register page
+2022-08-02 17:29:29 INFO  BaseClass:47 - Registration successful
+2022-08-02 17:29:30 INFO  BaseClass:51 - Logged out successful
+2022-08-02 17:29:30 INFO  BaseClass:55 - Perform sign in
+2022-08-02 17:33:05 INFO  BaseClass:35 - Base Class
+2022-08-02 17:33:06 INFO  BaseClass:26 - Get Started page
+2022-08-02 17:33:07 INFO  BaseClass:30 - Register page
+2022-08-02 17:33:07 INFO  BaseClass:47 - Registration successful
+2022-08-02 17:33:08 INFO  BaseClass:51 - Logged out successful
+2022-08-02 17:33:08 INFO  BaseClass:55 - Perform sign in
+2022-08-02 17:33:09 INFO  SignInTestCase:19 - Signed in Successfully
+2022-08-02 17:39:06 INFO  BaseClass:35 - Base Class
+2022-08-02 17:39:07 INFO  RegisterTestCase:26 - Get Started page
+2022-08-02 17:39:07 INFO  RegisterTestCase:30 - Register page
+2022-08-02 17:39:08 INFO  RegisterTestCase:47 - Registration successful
+2022-08-02 17:39:08 INFO  RegisterTestCase:51 - Logged out successful
+2022-08-02 17:39:09 INFO  SignInTestCase:21 - Signed in Successfully
+2022-08-02 17:40:06 INFO  BaseClass:35 - Base Class
+2022-08-02 17:42:08 INFO  BaseClass:35 - Base Class
+2022-08-02 17:42:10 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-02 17:47:34 INFO  BaseClass:39 - Base Class
+2022-08-02 17:47:34 INFO  BaseClass:42 - Get Started page
+2022-08-02 17:47:35 INFO  RegisterTestCase:30 - Register page
+2022-08-02 17:47:36 INFO  RegisterTestCase:47 - Registration successful
+2022-08-02 17:47:36 INFO  RegisterTestCase:51 - Logged out successful
+2022-08-02 17:47:37 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-02 17:49:18 INFO  BaseClass:39 - Base Class
+2022-08-02 17:49:19 INFO  BaseClass:42 - Get Started page
+2022-08-02 17:49:20 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 14:52:48 INFO  BaseClass:39 - Base Class
+2022-08-03 14:52:49 INFO  BaseClass:42 - Get Started page
+2022-08-03 14:52:49 INFO  RegisterTestCase:30 - Register page
+2022-08-03 14:52:51 INFO  RegisterTestCase:47 - Registration successful
+2022-08-03 14:52:51 INFO  RegisterTestCase:51 - Logged out successful
+2022-08-03 14:52:53 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 14:54:51 INFO  BaseClass:39 - Base Class
+2022-08-03 14:54:52 INFO  BaseClass:42 - Get Started page
+2022-08-03 14:54:52 INFO  RegisterTestCase:30 - Register page
+2022-08-03 14:54:55 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 15:02:35 INFO  BaseClass:39 - Base Class
+2022-08-03 15:02:36 INFO  BaseClass:42 - Get Started page
+2022-08-03 15:02:37 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 15:08:06 INFO  BaseClass:39 - Base Class
+2022-08-03 15:08:07 INFO  BaseClass:42 - Get Started page
+2022-08-03 15:08:08 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 15:16:33 INFO  BaseClass:39 - Base Class
+2022-08-03 15:16:34 INFO  BaseClass:42 - Get Started page
+2022-08-03 15:16:35 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 15:32:59 INFO  BaseClass:39 - Base Class
+2022-08-03 15:32:59 INFO  BaseClass:42 - Get Started page
+2022-08-03 15:33:00 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 16:22:58 INFO  BaseClass:39 - Base Class
+2022-08-03 16:22:59 INFO  BaseClass:42 - Get Started page
+2022-08-03 16:23:00 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 16:26:13 INFO  BaseClass:39 - Base Class
+2022-08-03 16:26:14 INFO  BaseClass:42 - Get Started page
+2022-08-03 16:26:15 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 16:45:39 INFO  BaseClass:39 - Base Class
+2022-08-03 16:45:40 INFO  BaseClass:42 - Get Started page
+2022-08-03 16:45:41 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 16:47:06 INFO  BaseClass:39 - Base Class
+2022-08-03 16:47:06 INFO  BaseClass:42 - Get Started page
+2022-08-03 16:47:07 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 16:56:55 INFO  BaseClass:39 - Base Class
+2022-08-03 16:56:55 INFO  BaseClass:42 - Get Started page
+2022-08-03 16:56:56 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 17:06:09 INFO  BaseClass:39 - Base Class
+2022-08-03 17:06:09 INFO  BaseClass:42 - Get Started page
+2022-08-03 17:06:10 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 17:07:35 INFO  BaseClass:39 - Base Class
+2022-08-03 17:07:35 INFO  BaseClass:42 - Get Started page
+2022-08-03 17:07:36 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 17:14:59 INFO  BaseClass:39 - Base Class
+2022-08-03 17:15:00 INFO  BaseClass:42 - Get Started page
+2022-08-03 17:15:01 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 17:17:03 INFO  BaseClass:39 - Base Class
+2022-08-03 17:17:04 INFO  BaseClass:42 - Get Started page
+2022-08-03 17:17:05 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-03 23:28:23 INFO  BaseClass:44 - Base Class
+2022-08-03 23:28:24 INFO  BaseClass:47 - Get Started page
+2022-08-03 23:28:25 INFO  RegisterTestCase:32 - Register page
+2022-08-03 23:28:25 INFO  RegisterTestCase:49 - Registration successful
+2022-08-03 23:31:31 INFO  BaseClass:44 - Base Class
+2022-08-03 23:31:31 INFO  BaseClass:47 - Get Started page
+2022-08-03 23:31:32 INFO  RegisterTestCase:32 - Register page
+2022-08-03 23:31:33 INFO  RegisterTestCase:49 - Registration successful
+2022-08-03 23:35:34 INFO  BaseClass:44 - Base Class
+2022-08-03 23:35:34 INFO  BaseClass:47 - Get Started page
+2022-08-03 23:35:35 INFO  RegisterTestCase:32 - Register page
+2022-08-03 23:35:36 INFO  RegisterTestCase:49 - Registration successful
+2022-08-03 23:35:36 INFO  RegisterTestCase:54 - Logged out successful
+2022-08-03 23:35:37 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 19:39:26 INFO  BaseClass:44 - Base Class
+2022-08-07 19:39:28 INFO  BaseClass:47 - Get Started page
+2022-08-07 19:39:30 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 19:41:16 INFO  BaseClass:44 - Base Class
+2022-08-07 19:41:17 INFO  BaseClass:47 - Get Started page
+2022-08-07 19:41:19 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 19:47:36 INFO  BaseClass:44 - Base Class
+2022-08-07 19:47:37 INFO  BaseClass:47 - Get Started page
+2022-08-07 19:47:39 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 19:51:16 INFO  BaseClass:44 - Base Class
+2022-08-07 19:51:17 INFO  BaseClass:47 - Get Started page
+2022-08-07 19:51:19 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 19:53:58 INFO  BaseClass:44 - Base Class
+2022-08-07 19:54:00 INFO  BaseClass:47 - Get Started page
+2022-08-07 19:54:02 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 23:52:58 INFO  BaseClass:44 - Base Class
+2022-08-07 23:52:58 INFO  BaseClass:47 - Get Started page
+2022-08-07 23:53:00 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-07 23:55:31 INFO  BaseClass:44 - Base Class
+2022-08-07 23:55:32 INFO  BaseClass:47 - Get Started page
+2022-08-07 23:55:34 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:00:59 INFO  BaseClass:44 - Base Class
+2022-08-08 00:00:59 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:01:02 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:02:47 INFO  BaseClass:44 - Base Class
+2022-08-08 00:02:48 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:02:50 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:05:16 INFO  BaseClass:44 - Base Class
+2022-08-08 00:05:16 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:05:17 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:10:54 INFO  BaseClass:44 - Base Class
+2022-08-08 00:10:54 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:10:55 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:12:22 INFO  BaseClass:44 - Base Class
+2022-08-08 00:12:22 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:12:23 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:13:05 INFO  BaseClass:44 - Base Class
+2022-08-08 00:13:06 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:13:07 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:14:07 INFO  BaseClass:44 - Base Class
+2022-08-08 00:14:07 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:14:08 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:18:03 INFO  BaseClass:44 - Base Class
+2022-08-08 00:18:04 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:18:05 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:20:16 INFO  BaseClass:44 - Base Class
+2022-08-08 00:20:16 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:20:17 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:21:46 INFO  BaseClass:44 - Base Class
+2022-08-08 00:21:46 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:21:47 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:25:14 INFO  BaseClass:44 - Base Class
+2022-08-08 00:25:14 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:25:15 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:33:27 INFO  BaseClass:44 - Base Class
+2022-08-08 00:33:28 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:33:29 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:36:04 INFO  BaseClass:44 - Base Class
+2022-08-08 00:36:05 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:36:06 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:40:05 INFO  BaseClass:44 - Base Class
+2022-08-08 00:40:05 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:40:06 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:57:19 INFO  BaseClass:44 - Base Class
+2022-08-08 00:57:20 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:57:21 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 00:59:50 INFO  BaseClass:44 - Base Class
+2022-08-08 00:59:51 INFO  BaseClass:47 - Get Started page
+2022-08-08 00:59:52 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:03:40 INFO  BaseClass:44 - Base Class
+2022-08-08 01:03:41 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:03:42 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:04:37 INFO  BaseClass:44 - Base Class
+2022-08-08 01:04:38 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:04:39 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:05:47 INFO  BaseClass:44 - Base Class
+2022-08-08 01:05:48 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:05:49 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:21:56 INFO  BaseClass:44 - Base Class
+2022-08-08 01:21:56 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:21:57 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:23:11 INFO  BaseClass:44 - Base Class
+2022-08-08 01:23:11 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:23:12 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:24:48 INFO  BaseClass:44 - Base Class
+2022-08-08 01:24:49 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:24:50 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:27:29 INFO  BaseClass:44 - Base Class
+2022-08-08 01:27:29 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:27:30 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:29:29 INFO  BaseClass:44 - Base Class
+2022-08-08 01:29:29 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:29:30 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 01:30:35 INFO  BaseClass:44 - Base Class
+2022-08-08 01:30:35 INFO  BaseClass:47 - Get Started page
+2022-08-08 01:30:36 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:24:21 INFO  BaseClass:44 - Base Class
+2022-08-08 14:24:22 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:24:24 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:28:46 INFO  BaseClass:44 - Base Class
+2022-08-08 14:28:47 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:28:49 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:33:57 INFO  BaseClass:44 - Base Class
+2022-08-08 14:33:58 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:34:00 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:34:44 INFO  BaseClass:44 - Base Class
+2022-08-08 14:34:44 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:34:46 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:47:52 INFO  BaseClass:44 - Base Class
+2022-08-08 14:47:53 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:47:55 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:49:31 INFO  BaseClass:44 - Base Class
+2022-08-08 14:49:32 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:49:34 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 14:54:19 INFO  BaseClass:44 - Base Class
+2022-08-08 14:54:20 INFO  BaseClass:47 - Get Started page
+2022-08-08 14:54:21 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 15:02:51 INFO  BaseClass:44 - Base Class
+2022-08-08 15:02:52 INFO  BaseClass:47 - Get Started page
+2022-08-08 15:02:54 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-08 15:09:23 INFO  BaseClass:44 - Base Class
+2022-08-08 15:09:24 INFO  BaseClass:47 - Get Started page
+2022-08-08 15:09:26 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:38:00 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 14:38:00 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 14:38:01 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:38:02 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-09 14:38:02 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-09 14:38:04 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-09 14:38:04 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-09 14:38:04 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-09 14:38:05 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-09 14:38:06 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-09 14:38:06 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-09 14:38:06 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-09 14:38:07 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-09 14:38:07 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-09 14:38:08 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-09 14:38:09 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-09 14:38:09 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-09 14:38:10 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-09 14:38:10 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-09 14:38:11 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-09 14:38:11 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-09 14:38:12 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-09 14:38:12 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-09 14:42:44 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 14:42:45 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 14:42:46 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:42:46 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-09 14:42:47 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-09 14:42:48 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-09 14:42:48 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-09 14:42:49 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-09 14:42:49 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-09 14:42:50 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-09 14:42:50 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-09 14:42:51 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-09 14:42:51 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-09 14:42:52 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-09 14:42:52 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-09 14:42:52 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-09 14:42:53 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-09 14:42:53 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-09 14:42:54 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-09 14:42:54 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-09 14:42:55 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-09 14:42:55 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-09 14:42:56 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-09 14:47:17 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 14:47:18 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 14:47:19 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:47:19 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-09 14:47:20 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-09 14:47:21 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-09 14:47:21 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-09 14:47:22 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-09 14:47:22 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-09 14:47:23 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-09 14:47:23 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-09 14:47:24 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-09 14:47:24 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-09 14:47:25 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-09 14:47:25 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-09 14:47:25 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-09 14:47:26 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-09 14:47:26 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-09 14:47:27 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-09 14:47:27 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-09 14:47:27 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-09 14:47:28 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-09 14:47:28 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-09 14:51:06 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 14:51:07 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 14:51:08 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:51:09 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-09 14:51:09 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-09 14:51:10 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-09 14:51:11 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-09 14:51:11 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-09 14:51:11 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-09 14:51:12 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-09 14:51:12 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-09 14:51:13 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-09 14:51:13 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-09 14:51:14 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-09 14:51:14 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-09 14:51:15 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-09 14:51:15 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-09 14:51:15 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-09 14:51:16 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-09 14:51:16 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-09 14:51:16 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-09 14:51:17 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-09 14:51:17 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-09 14:54:07 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 14:54:07 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 14:54:08 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:54:08 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-09 14:54:09 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-09 14:54:10 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-09 14:54:10 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-09 14:54:10 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-09 14:54:11 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-09 14:54:12 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-09 14:54:12 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-09 14:54:12 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-09 14:54:13 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-09 14:54:13 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-09 14:54:14 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-09 14:54:14 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-09 14:54:15 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-09 14:54:15 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-09 14:54:15 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-09 14:54:16 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-09 14:54:16 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-09 14:54:17 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-09 14:54:17 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-09 14:55:33 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 14:55:33 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 14:55:33 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-09 14:55:33 INFO  RegisterTestCase:26 - Register page
+2022-08-09 14:55:33 DEBUG RegisterTestCase:28 - debug 
+2022-08-09 14:55:35 INFO  SignInTestCase:28 - Signed in Successfully
+2022-08-09 14:55:35 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-09 14:55:35 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-09 14:55:36 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-09 14:55:37 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-09 14:55:37 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-09 14:55:37 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-09 14:55:38 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-09 14:55:38 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-09 14:55:39 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-09 14:55:39 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-09 14:55:40 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-09 14:55:40 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-09 14:55:41 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-09 14:55:41 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-09 14:55:42 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-09 14:55:42 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-09 14:55:42 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-09 14:55:43 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-09 14:55:43 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-09 14:55:44 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-09 15:02:09 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 15:02:09 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 15:02:10 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-09 15:02:10 INFO  RegisterTestCase:26 - Register page
+2022-08-09 15:02:10 DEBUG RegisterTestCase:28 - debug 
+2022-08-09 15:14:48 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 15:14:48 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 15:19:39 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 15:19:40 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 23:00:54 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 23:00:55 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 23:40:36 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 23:40:37 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-09 23:58:38 INFO  BaseClass:44 - Inside Base Class
+2022-08-09 23:58:39 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-10 12:59:18 INFO  BaseClass:44 - Inside Base Class
+2022-08-10 12:59:19 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-10 12:59:19 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-10 12:59:20 INFO  RegisterTestCase:26 - Register page
+2022-08-10 12:59:20 DEBUG RegisterTestCase:28 - debug 
+2022-08-10 13:01:42 INFO  BaseClass:44 - Inside Base Class
+2022-08-10 13:01:42 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-10 13:01:42 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-10 13:01:43 INFO  RegisterTestCase:26 - Register page
+2022-08-10 13:01:43 DEBUG RegisterTestCase:28 - debug 
+2022-08-10 13:01:44 INFO  RegisterTestCase:41 - Registration successful
+2022-08-10 13:14:31 INFO  BaseClass:44 - Inside Base Class
+2022-08-10 13:14:34 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-10 16:04:02 INFO  BaseClass:44 - Inside Base Class
+2022-08-10 16:04:03 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-10 16:04:03 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-10 16:04:04 INFO  RegisterTestCase:26 - Register page
+2022-08-10 16:04:04 DEBUG RegisterTestCase:28 - debug 
+2022-08-10 16:04:07 INFO  SignInTestCase:29 - Signed in Successfully
+2022-08-10 16:04:07 INFO  DataStructuresTestCase:17 - Inside DataStructures class 
+2022-08-10 16:04:09 INFO  DataStructuresTestCase:28 - Clicked  Time Complexity link
+2022-08-10 16:04:11 INFO  DataStructuresTestCase:36 - written message in editor
+2022-08-10 16:04:11 INFO  DataStructuresTestCase:41 - Navigated back to home page
+2022-08-10 16:04:12 INFO  DataStructuresTestCase:44 - Clicked Get Started
+2022-08-10 16:04:13 INFO  LinkedListTestCase:20 - Clicked Introduction link in linked list
+2022-08-10 16:04:14 INFO  LinkedListTestCase:26 - written message in text editor
+2022-08-10 16:04:15 INFO  LinkedListTestCase:30 - Clicked Createlinkedlist link in linked list
+2022-08-10 16:04:16 INFO  LinkedListTestCase:35 - written message in text editor
+2022-08-10 16:04:16 INFO  LinkedListTestCase:39 - Clicked TypesOflinkedlist link in linked list
+2022-08-10 16:04:17 INFO  LinkedListTestCase:44 - written message in text editor
+2022-08-10 16:04:18 INFO  LinkedListTestCase:48 - Clicked ImplementLinkedList link in linked list
+2022-08-10 16:04:19 INFO  LinkedListTestCase:53 - written message in text editor
+2022-08-10 16:04:19 INFO  LinkedListTestCase:57 - Clicked TraversalLink in linked list
+2022-08-10 16:04:20 INFO  LinkedListTestCase:62 - written message in text editor
+2022-08-10 16:04:21 INFO  LinkedListTestCase:66 - Clicked InsertionLink in linked list
+2022-08-10 16:04:22 INFO  LinkedListTestCase:71 - written message in text editor
+2022-08-10 16:04:23 INFO  LinkedListTestCase:75 - Clicked DeletionLink in linked list
+2022-08-10 16:04:24 INFO  LinkedListTestCase:80 - written message in text editor
+2022-08-10 16:04:25 INFO  LinkedListTestCase:85 - clicked Sign out
+2022-08-15 13:12:24 INFO  BaseClass:44 - Inside Base Class
+2022-08-15 13:12:25 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-15 13:12:25 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-15 13:12:26 INFO  RegisterTestCase:26 - Register page
+2022-08-15 13:12:26 DEBUG RegisterTestCase:28 - debug 
+2022-08-15 13:12:29 INFO  SignInTestCase:29 - Signed in Successfully
+2022-08-15 13:12:29 INFO  DataStructuresTestCase:19 - Inside DataStructures class 
+2022-08-15 13:12:31 INFO  DataStructuresTestCase:30 - Clicked  Time Complexity link
+2022-08-15 13:12:33 INFO  DataStructuresTestCase:38 - written message in editor
+2022-08-15 13:12:34 INFO  DataStructuresTestCase:43 - Navigated back to home page
+2022-08-15 13:12:34 INFO  DataStructuresTestCase:46 - Clicked Get Started
+2022-08-15 13:12:35 INFO  LinkedListTestCase:22 - Clicked Introduction link in linked list
+2022-08-15 13:12:36 INFO  LinkedListTestCase:28 - written message in first linked list link text editor
+2022-08-15 13:12:37 INFO  LinkedListTestCase:32 - Clicked Createlinkedlist link in linked list
+2022-08-15 13:12:38 INFO  LinkedListTestCase:37 - written message in second linked list link text editor
+2022-08-15 13:12:38 INFO  LinkedListTestCase:41 - Clicked TypesOflinkedlist link in linked list
+2022-08-15 13:12:39 INFO  LinkedListTestCase:46 - written message in third linked list linktext editor
+2022-08-15 13:12:39 INFO  LinkedListTestCase:50 - Clicked ImplementLinkedList link in linked list
+2022-08-15 13:12:40 INFO  LinkedListTestCase:55 - written message in fourth linked list link text editor
+2022-08-15 13:12:41 INFO  LinkedListTestCase:59 - Clicked TraversalLink in linked list
+2022-08-15 13:12:42 INFO  LinkedListTestCase:64 - written message in fifth linked list link text editor
+2022-08-15 13:12:42 INFO  LinkedListTestCase:68 - Clicked InsertionLink in linked list
+2022-08-15 13:12:43 INFO  LinkedListTestCase:73 - written message in sixth linked list link text editor
+2022-08-15 13:12:43 INFO  LinkedListTestCase:77 - Clicked DeletionLink in linked list
+2022-08-15 13:12:44 INFO  LinkedListTestCase:82 - written message in seven linked list link text editor
+2022-08-15 13:12:45 INFO  LinkedListTestCase:87 - clicked Sign out
+2022-08-15 13:18:16 INFO  BaseClass:44 - Inside Base Class
+2022-08-15 13:18:17 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-15 13:18:17 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-15 13:18:18 INFO  RegisterTestCase:26 - Register page
+2022-08-15 13:18:18 DEBUG RegisterTestCase:28 - debug 
+2022-08-15 13:18:19 INFO  RegisterTestCase:41 - Registration successful
+2022-08-15 13:18:22 INFO  SignInTestCase:29 - Signed in Successfully
+2022-08-15 13:18:22 INFO  DataStructuresTestCase:19 - Inside DataStructures class 
+2022-08-15 13:18:24 INFO  DataStructuresTestCase:30 - Clicked  Time Complexity link
+2022-08-15 13:18:25 INFO  DataStructuresTestCase:38 - written message in editor
+2022-08-15 13:18:26 INFO  DataStructuresTestCase:43 - Navigated back to home page
+2022-08-15 13:18:26 INFO  DataStructuresTestCase:46 - Clicked Get Started
+2022-08-15 13:18:27 INFO  LinkedListTestCase:22 - Clicked Introduction link in linked list
+2022-08-15 13:18:28 INFO  LinkedListTestCase:28 - written message in first linked list link text editor
+2022-08-15 13:18:29 INFO  LinkedListTestCase:32 - Clicked Createlinkedlist link in linked list
+2022-08-15 13:18:30 INFO  LinkedListTestCase:37 - written message in second linked list link text editor
+2022-08-15 13:18:30 INFO  LinkedListTestCase:41 - Clicked TypesOflinkedlist link in linked list
+2022-08-15 13:18:31 INFO  LinkedListTestCase:46 - written message in third linked list linktext editor
+2022-08-15 13:18:31 INFO  LinkedListTestCase:50 - Clicked ImplementLinkedList link in linked list
+2022-08-15 13:18:32 INFO  LinkedListTestCase:55 - written message in fourth linked list link text editor
+2022-08-15 13:18:33 INFO  LinkedListTestCase:59 - Clicked TraversalLink in linked list
+2022-08-15 13:18:34 INFO  LinkedListTestCase:64 - written message in fifth linked list link text editor
+2022-08-15 13:18:34 INFO  LinkedListTestCase:68 - Clicked InsertionLink in linked list
+2022-08-15 13:18:35 INFO  LinkedListTestCase:73 - written message in sixth linked list link text editor
+2022-08-15 13:18:35 INFO  LinkedListTestCase:77 - Clicked DeletionLink in linked list
+2022-08-15 13:18:36 INFO  LinkedListTestCase:82 - written message in seven linked list link text editor
+2022-08-15 13:18:37 INFO  LinkedListTestCase:87 - clicked Sign out
+2022-08-15 16:08:48 INFO  BaseClass:44 - Inside Base Class
+2022-08-15 16:08:50 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-15 16:08:50 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-15 16:08:50 INFO  RegisterTestCase:26 - Register page
+2022-08-15 16:08:50 DEBUG RegisterTestCase:28 - debug 
+2022-08-15 16:08:54 INFO  SignInTestCase:29 - Signed in Successfully
+2022-08-15 16:08:54 INFO  DataStructuresTestCase:19 - Inside DataStructures class 
+2022-08-15 16:08:55 INFO  DataStructuresTestCase:30 - Clicked  Time Complexity link
+2022-08-15 16:08:57 INFO  DataStructuresTestCase:38 - written message in editor
+2022-08-15 16:08:58 INFO  DataStructuresTestCase:43 - Navigated back to home page
+2022-08-15 16:08:58 INFO  DataStructuresTestCase:46 - Clicked Get Started
+2022-08-15 16:08:59 INFO  LinkedListTestCase:22 - Clicked Introduction link in linked list
+2022-08-15 16:09:01 INFO  LinkedListTestCase:28 - written message in first linked list link text editor
+2022-08-15 16:09:02 INFO  LinkedListTestCase:32 - Clicked Createlinkedlist link in linked list
+2022-08-15 16:09:03 INFO  LinkedListTestCase:37 - written message in second linked list link text editor
+2022-08-15 16:09:04 INFO  LinkedListTestCase:41 - Clicked TypesOflinkedlist link in linked list
+2022-08-15 16:09:05 INFO  LinkedListTestCase:46 - written message in third linked list linktext editor
+2022-08-15 16:09:06 INFO  LinkedListTestCase:50 - Clicked ImplementLinkedList link in linked list
+2022-08-15 16:09:07 INFO  LinkedListTestCase:55 - written message in fourth linked list link text editor
+2022-08-15 16:09:07 INFO  LinkedListTestCase:59 - Clicked TraversalLink in linked list
+2022-08-15 16:09:09 INFO  LinkedListTestCase:64 - written message in fifth linked list link text editor
+2022-08-15 16:09:10 INFO  LinkedListTestCase:68 - Clicked InsertionLink in linked list
+2022-08-15 16:09:11 INFO  LinkedListTestCase:73 - written message in sixth linked list link text editor
+2022-08-15 16:09:12 INFO  LinkedListTestCase:77 - Clicked DeletionLink in linked list
+2022-08-15 16:09:13 INFO  LinkedListTestCase:82 - written message in seven linked list link text editor
+2022-08-15 16:09:14 INFO  LinkedListTestCase:87 - clicked Sign out
+2022-08-15 16:09:55 INFO  BaseClass:44 - Inside Base Class
+2022-08-15 16:09:56 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-15 16:09:57 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-15 16:09:57 INFO  RegisterTestCase:26 - Register page
+2022-08-15 16:09:57 DEBUG RegisterTestCase:28 - debug 
+2022-08-15 16:10:00 INFO  SignInTestCase:29 - Signed in Successfully
+2022-08-15 16:10:00 INFO  DataStructuresTestCase:19 - Inside DataStructures class 
+2022-08-15 16:10:01 INFO  DataStructuresTestCase:30 - Clicked  Time Complexity link
+2022-08-15 16:10:03 INFO  DataStructuresTestCase:38 - written message in editor
+2022-08-15 16:10:03 INFO  DataStructuresTestCase:43 - Navigated back to home page
+2022-08-15 16:10:04 INFO  DataStructuresTestCase:46 - Clicked Get Started
+2022-08-15 16:10:05 INFO  LinkedListTestCase:22 - Clicked Introduction link in linked list
+2022-08-15 16:10:06 INFO  LinkedListTestCase:28 - written message in first linked list link text editor
+2022-08-15 16:10:07 INFO  LinkedListTestCase:32 - Clicked Createlinkedlist link in linked list
+2022-08-15 16:10:08 INFO  LinkedListTestCase:37 - written message in second linked list link text editor
+2022-08-15 16:10:08 INFO  LinkedListTestCase:41 - Clicked TypesOflinkedlist link in linked list
+2022-08-15 16:10:10 INFO  LinkedListTestCase:46 - written message in third linked list linktext editor
+2022-08-15 16:10:10 INFO  LinkedListTestCase:50 - Clicked ImplementLinkedList link in linked list
+2022-08-15 16:10:11 INFO  LinkedListTestCase:55 - written message in fourth linked list link text editor
+2022-08-15 16:10:12 INFO  LinkedListTestCase:59 - Clicked TraversalLink in linked list
+2022-08-15 16:10:13 INFO  LinkedListTestCase:64 - written message in fifth linked list link text editor
+2022-08-15 16:10:13 INFO  LinkedListTestCase:68 - Clicked InsertionLink in linked list
+2022-08-15 16:10:14 INFO  LinkedListTestCase:73 - written message in sixth linked list link text editor
+2022-08-15 16:10:15 INFO  LinkedListTestCase:77 - Clicked DeletionLink in linked list
+2022-08-15 16:10:16 INFO  LinkedListTestCase:82 - written message in seven linked list link text editor
+2022-08-15 16:10:17 INFO  LinkedListTestCase:87 - clicked Sign out
+2022-08-15 16:12:49 INFO  BaseClass:44 - Inside Base Class
+2022-08-15 16:12:50 INFO  BaseClass:47 - Landed on Get Started page
+2022-08-15 16:12:50 INFO  RegisterTestCase:22 - Indise Register class
+2022-08-15 16:12:51 INFO  RegisterTestCase:26 - Register page
+2022-08-15 16:12:51 DEBUG RegisterTestCase:28 - debug 
+2022-08-15 16:12:52 INFO  RegisterTestCase:41 - Registration successful
